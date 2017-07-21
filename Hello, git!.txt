@@ -2,7 +2,8 @@ Hello, git!
 
 and second commit to develop branch
 
-That my first commit.
+That correct of first commit!
+
 
 Hehe, I'm third)
 
