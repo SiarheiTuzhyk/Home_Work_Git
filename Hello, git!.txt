@@ -2,8 +2,15 @@ Hello, git!
 
 and second commit to develop branch
 
+<<<<<<< HEAD
 
 this is refactor of first commit from master
+
+
+=======
+That correct of first commit!
+
+>>>>>>> develop
 
 Hehe, I'm third)
 
