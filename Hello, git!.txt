@@ -1,3 +1,8 @@
 Hello, git!
+
+
 That my first commit.
+
+Hehe, I'm third)
+
 You wrong, that is second!!! 
