@@ -2,7 +2,8 @@ Hello, git!
 
 and second commit to develop branch
 
-That my first commit.
+
+this is refactor of first commit from master
 
 Hehe, I'm third)
 
