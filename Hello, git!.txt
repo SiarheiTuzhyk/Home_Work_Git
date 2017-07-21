@@ -1,5 +1,6 @@
 Hello, git!
 
+and second commit to develop branch
 
 That my first commit.
 
@@ -8,3 +9,4 @@ Hehe, I'm third)
 You wrong, that is second!!! 
 
 First commit at develop branch!
+
